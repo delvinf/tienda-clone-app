@@ -186,7 +186,7 @@ button.block {
       color: #20a020;
   }
 
-  .error {
+  .danger {
     color: #a02020;
 }
 
@@ -205,4 +205,5 @@ button.block {
 .alert-danger {
     color: #a02020;
     background-color: #ffdbdb;
+    border-radius: 0.5rem;
 }
